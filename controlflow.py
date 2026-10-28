@@ -1,5 +1,5 @@
 #Control flow statement
-#1. Decision Making
+#1. DecisionMaking
 #1.1 If ----- Statement
 #1.2 If---Else Statement
 #1.3 If----Else----Else Statement
