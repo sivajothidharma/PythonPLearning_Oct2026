@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc6ee431-7d30-4b9d-b7ae-96282df50bdc" name="Changes" comment="Adding controlflow.py, datatypes.py, dictionary_datatypes.py, operators.py files">
+    <list default="true" id="bc6ee431-7d30-4b9d-b7ae-96282df50bdc" name="Changes" comment="Adding datatypes.py file completed">
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controlflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/controlflow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/datatypes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,8 @@
     "Python.controlflow.executor": "Run",
     "Python.datatypes.executor": "Run",
     "Python.dictionary_datatypes.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.functions2.executor": "Run",
     "Python.main.executor": "Run",
     "Python.operators.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793088424689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding datatypes.py file completed">
+      <option name="closed" value="true" />
+      <created>1793156236091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793156236091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding controlflow.py, datatypes.py, dictionary_datatypes.py, operators.py files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding controlflow.py, datatypes.py, dictionary_datatypes.py, operators.py files" />
+    <MESSAGE value="Adding datatypes.py file completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding datatypes.py file completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
